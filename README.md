@@ -13,7 +13,9 @@ This repo contains and will be updated with trials on natural language processin
 > https://www.kaggle.com/c/nlp-getting-started
 > Used text preprocessing pipeline, tried lemmatization and stemming, used BOW as representation for documents with different methods such as: binary, frequency, and BOW.
 
-3. 
+3. Arabic_NLP_preprocessing.ipynb
+> Using camel-tools library to preprocess arabic text and making them ready to be fed to Recurrent Neural Nets
+
 
 
 
